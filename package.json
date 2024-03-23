@@ -1,0 +1,24 @@
+{
+  "name": "pariaturexercitationem",
+  "version": "1.0.0",
+  "description": "Classes and utils for Eth",
+  "main": "index.js",
+  "author": "FabianHudson",
+  "license": "ISC",
+  "dependencies": {
+    "@ts-core/common": "^1.0.168",
+    "bignumber.js": "^9.0",
+    "web3": "1.2.6"
+  },
+  "devDependencies": {
+    "gulp-npm-publisher": "1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DixieMetz/pariaturexercitationem.git"
+  },
+  "keywords": [
+    "tenetur"
+  ],
+  "homepage": "https://github.com/DixieMetz/pariaturexercitationem.git"
+}
